@@ -35,7 +35,7 @@ Free Pinterest Downloader – Download videos, images &amp; GIFs from Pinterest 
 
 > Here's how PinSave.in looks:
 
-![Screenshot](https://pinsave.in/assets/screenshot.jpg)
+![Screenshot](https://pinsave.in/
 
 ---
 
